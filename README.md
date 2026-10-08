@@ -674,6 +674,6 @@ These are observations from reviewing the current pipeline:
 
 ---
 
-**If you have any queries or doubts, please feel free to ask Saddam Sir or ChatGPT.
+# **If you have any queries or doubts, please feel free to ask Saddam Sir or ChatGPT.
 ** 
 **Repository:** https://github.com/Rajesh33-11/flipkart
